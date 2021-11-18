@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @larslnde
-- 👀 I’m interested in Web and mobile development.
+- 👋 Hi, I’m Lars.
+- 👀 I’m interested in Web and Mobile development.
 - 🌱 I’m currently a Junior Full Stack Engineer working with React/JavaScript/AWS & various other technologies.
 
 <!---
