@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Lars.
-- 👀 I’m interested in Web and Mobile development.
-- 🌱 I’m currently a Junior Full Stack Engineer working with React/JavaScript/AWS & various other technologies.
+- Hello
 
 <!---
 larslnde/larslnde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
